@@ -1,4 +1,5 @@
-<h1 align="left">✋🏻 I am Ibrahim Jamal </h1>
+![Hand Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+# I am Ibrahim Jamal
 Highly motivated software developer with over 2 years of experience in full stack development.Proficient<br>in JavaScript,PHP,Laravel,React,and Next.js.Seeking to leverage technical expertise and problem solving<br>skills in a challenging software development role.<br>
 
 
