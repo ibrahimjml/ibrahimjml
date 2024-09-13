@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> # I am Ibrahim Jamal
 
 Highly motivated software developer with over 2 years of experience in full stack development.Proficient<br>in JavaScript,PHP,Laravel,React,and Next.js.Seeking to leverage technical expertise and problem solving<br>skills in a challenging software development role.<br>
 
