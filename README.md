@@ -2,9 +2,6 @@
 Highly motivated software developer with over 2 years of experience in full stack development.Proficient<br>in JavaScript,PHP,Laravel,React,and Next.js.Seeking to leverage technical expertise and problem solving<br>skills in a challenging software development role.<br>
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/ibrahimjml/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimjml&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ibrahimjml&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimjml&theme=chartreuse-dark"></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimjamal222) 
