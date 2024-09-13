@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h1 align="center">💻Hi I am Ibrahim Jamal </h1>
+
+<h1 align="left">💻Hi I am Ibrahim Jamal </h1>
 Highly motivated software developer with over 2 years of experience in full stack development.Proficient<br>in JavaScript,PHP,Laravel,React,and Next.js.Seeking to leverage technical expertise and problem solving<br>skills in a challenging software development role.<br>
 
 
