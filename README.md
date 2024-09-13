@@ -1,5 +1,5 @@
-![Hand Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
-# I am Ibrahim Jamal
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+
 Highly motivated software developer with over 2 years of experience in full stack development.Proficient<br>in JavaScript,PHP,Laravel,React,and Next.js.Seeking to leverage technical expertise and problem solving<br>skills in a challenging software development role.<br>
 
 
