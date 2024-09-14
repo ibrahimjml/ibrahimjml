@@ -1,5 +1,5 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> I am Ibrahim Jamal </h1>
-Highly motivated software developer with over 2 years of experience in full stack development.Proficient<br>in JavaScript,PHP,Laravel,React,and Next.js.Seeking to leverage technical expertise and problem solving<br>skills in a challenging software development role.<br>
+Highly motivated software developer with over 2 years of experience in full stack development.Proficient in JavaScript,PHP,Laravel,React,and Next.js.Seeking to leverage technical expertise and problem solving skills in a challenging software development role.<br>
 
 
 ## 🌐 Socials:
