@@ -16,6 +16,10 @@ I’m a passionate software developer with experience in Laravel,PHP,Tailwind CS
 ![](https://github-readme-stats.vercel.app/api?username=ibrahimjml&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimjml&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimjml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<strong>Top Repositories</strong>
+<a href="https://github.com/ibrahimjml/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimjml&repo=Laravel-tailwind-blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimjml&icon=0&color=3)](https://visitcount.itsvg.in)
