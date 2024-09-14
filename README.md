@@ -18,5 +18,12 @@ I’m a passionate software developer with experience in Laravel,PHP,Tailwind CS
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimjml&icon=0&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=93f767&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=93f767&style=flat&logo" alt="back to top" /></a></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
