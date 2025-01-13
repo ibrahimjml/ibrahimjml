@@ -18,6 +18,7 @@ I’m a passionate software developer with experience in Laravel,PHP,Tailwind CS
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimjml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimjml&icon=0&color=3)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/ibrahimjml/count.svg)
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=93f767&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
