@@ -17,7 +17,6 @@ I’m a passionate software developer with experience in Laravel,PHP,Tailwind CS
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimjml&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimjml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=ibrahimjml&icon=0&color=3)](https://visitcount.itsvg.in)
 ![Visitor Count](https://profile-counter.glitch.me/ibrahimjml/count.svg)
 <div align="center">
     <a href="https://git.io/typing-svg">
